@@ -1,4 +1,4 @@
-package com.example
+package com.raquezha
 
 import com.jessecorbett.diskord.api.common.UserStatus
 import com.jessecorbett.diskord.bot.bot

@@ -33,5 +33,5 @@ tasks.withType<KotlinCompile> {
 
 
 application {
-    mainClass.set("com.example.MainKt")
+    mainClass.set("com.raquezha.RaqBot")
 }
