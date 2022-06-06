@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.raquezha</groupId>
+                <artifactId>raqbot</artifactId>
+                <version>1.0.0</version>
+                <packaging>jar</packaging>
+            </plugin>
+        </plugins>
+    </build>
+</project>
