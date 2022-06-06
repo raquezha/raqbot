@@ -1,1 +1,1 @@
-worker: java -jar target/raqbot-1.0.0-SNAPSHOT
+worker: java -jar target/raqbot.jar
